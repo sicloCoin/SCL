@@ -1,2 +1,2 @@
 # SCL
-Projeto  SicloCoin no padrão ERc-20
+Projeto  SicloCoin no padrão ERC-20
