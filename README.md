@@ -1,5 +1,5 @@
 # SCL
-O projeto SicloCoin nascceu em Abril de 2018 na WavesPlatform, em Outubro de 2019 foi feita a migraçao para NextyPlatform.
+O projeto SicloCoin nascceu em Abril de 2018 na WavesPlatform, em Outubro de 2019 foi feita a migração para NextyPlatform.
 
 Projeto  SicloCoin no padrão N-ERC-20
 Nexty Platform
